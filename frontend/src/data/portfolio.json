@@ -1,0 +1,30 @@
+{
+  "_comment": "Edit this file to manage portfolio content. The four capability cards below always show in the 'Our Work' grid. Add new project examples to 'projects' — each appears in a 'Selected projects' strip below the capabilities grid. 'image' is optional; leave it out to render a gradient tile with the project initial.",
+  "capabilities": [
+    {
+      "category": "WEB EXPERIENCE",
+      "title": "Websites that work as hard as you do.",
+      "description": "Business websites and landing pages built around clear messaging, responsive layouts and easy navigation.",
+      "tag": "WEB DESIGN + DEVELOPMENT"
+    },
+    {
+      "category": "SOCIAL PRESENCE",
+      "title": "A brand people recognise.",
+      "description": "Consistent social creatives and content that help your business look professional across digital channels.",
+      "tag": "SOCIAL MEDIA + CREATIVE"
+    },
+    {
+      "category": "CAMPAIGN CREATIVE",
+      "title": "Make every post count.",
+      "description": "Promotional posters, branded posts and campaign visuals shaped around your message and audience.",
+      "tag": "DESIGN + CONTENT"
+    },
+    {
+      "category": "SHORT-FORM VIDEO",
+      "title": "Stories with momentum.",
+      "description": "Reels and short videos edited to support your brand voice and communicate quickly.",
+      "tag": "VIDEO EDITING"
+    }
+  ],
+  "projects": []
+}
